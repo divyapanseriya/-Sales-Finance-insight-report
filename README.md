@@ -11,4 +11,5 @@ At the project's core, I meticulously crafted comprehensive Sales and Financial 
 - DAX
 - Conditional Formatting
 - Report Beautification
+
 In conclusion, AtliQ can decipher customer needs, negotiate shrewd deals, and strategically expand into promising markets. The meticulously crafted Sales & Finance project is more than a document; it's a roadmap for growth, offering pivotal insights into customer behavior, market dynamics, and financial health.
